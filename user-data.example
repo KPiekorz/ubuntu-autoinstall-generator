@@ -2,6 +2,8 @@
 autoinstall:
   version: 1
   identity:
-    hostname: ubuntu-server
-    password: "$6$exDY1mhS4KUYCE/2$zmn9ToZwTKLhCw.b4/b.ZRTIZM30JZ4QrOQ2aOXJ8yk96xpcCof0kxKwuX1kqLG/ygbJ1f8wxED22bTL4F46P0"
-    username: ubuntu
+    hostname: node_1
+    password: "$1$SBXb/0xN$jwaNSdl42.ju6.BEaERMC0"
+    username: cele
+  ssh:
+    install-server: yes
