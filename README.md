@@ -92,5 +92,12 @@ This script is based on [this](https://betterdev.blog/minimal-safe-bash-script-t
 The somewhat outdated Ubuntu documentation [here](https://help.ubuntu.com/community/LiveCDCustomization#Assembling_the_file_system) was also useful.
 
 
+### Procedure
+1. Start Mac Mini.
+2. Push Alt key for 13 sec.
+3. Right arrow + Enter.
+4. Wait 5-10 min from instalation completed.
+5. Connect with ssh.
+
 ### License
 MIT license.
